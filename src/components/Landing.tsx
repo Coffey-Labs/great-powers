@@ -115,7 +115,7 @@ export function Landing({
           */}
           <a href="https://games.jcoffey.dev/">The rest of the games</a>
           {' · '}
-          <a href="https://github.com/jcoffey-dev/great-powers">Source</a>
+          <a href="https://git.coffeylabs.org/jcoffey-dev/great-powers">Source</a>
         </p>
         <p>
           Great Powers is free software under the{' '}
