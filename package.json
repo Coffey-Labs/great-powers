@@ -29,10 +29,10 @@
   "author": "John Coffey",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jcoffey-dev/great-powers.git"
+    "url": "git+https://git.coffeylabs.org/jcoffey-dev/great-powers.git"
   },
   "homepage": "https://games.jcoffey.dev/powers/",
   "bugs": {
-    "url": "https://github.com/jcoffey-dev/great-powers/issues"
+    "url": "https://git.coffeylabs.org/jcoffey-dev/great-powers/issues"
   }
 }
