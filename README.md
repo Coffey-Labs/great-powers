@@ -1,5 +1,9 @@
 # Great Powers
 
+> [!NOTE]
+> Development happens on [git.coffeylabs.org/jcoffey-dev/great-powers](https://git.coffeylabs.org/jcoffey-dev/great-powers); the copy on GitHub is a read-only mirror.
+> Report issues at **[git.coffeylabs.org/jcoffey-dev/great-powers/issues](https://git.coffeylabs.org/jcoffey-dev/great-powers/issues)**, and join discussions at **[community.coffeylabs.org](https://community.coffeylabs.org)**.
+
 A browser rebuild of the classic seven-power negotiation game: one human
 against six computer powers, in one sitting.
 
